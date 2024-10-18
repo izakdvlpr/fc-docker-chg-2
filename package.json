@@ -1,0 +1,17 @@
+{
+  "name": "fc-docker-chg-2",
+  "version": "1.0.0",
+  "description": "Full Cycle - Nginx with Node.js challenge",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mysql2": "^3.11.3"
+  }
+}
